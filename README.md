@@ -48,6 +48,9 @@ Principais características:
 |1010|JZ  end|Desvio condicional, se “Z=1”, para o endereço “end” da memória|
 |1111|HLT	   |Para o ciclo de busca-decodificação-execução|
 
+# Diagrama geral
+
+
 # Referencias
 1. https://www.overleaf.com/project/5cf493298a48086e11478c95
 2. Markdown Command:
